@@ -1,4 +1,4 @@
-# minecraft-warden-drop-fix
+# Warden drop fix for Minecraft
 Datapack for Minecraft 1.19 fixing Warden drops.
 
 ## Overview
